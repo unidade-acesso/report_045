@@ -8,7 +8,7 @@ seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou 
 
 # PRR - WireMaze - Pack 20
 
-- Data do relatório: 30/12/2025
+- Data de criação: 30/12/2025
 - Propriedade: PRR - WireMaze - Pack 20
 - Candidatura: Ouro
 
